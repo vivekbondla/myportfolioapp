@@ -1,3 +1,5 @@
+import myprofile from '../images/myprofile.jpg'
+
 const HomePage = () => {
   return (
     //
@@ -5,7 +7,7 @@ const HomePage = () => {
       <div className="image">
         {" "}
         <img
-          src="https://i.picsum.photos/id/1025/4951/3301.jpg?hmac=_aGh5AtoOChip_iaMo8ZvvytfEojcgqbCH7dzaz-H8Y"
+          src={myprofile}
           alt="profile pic"
         />
         <h1>VIVEK KUMAR BONDLA</h1>
