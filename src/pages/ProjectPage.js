@@ -9,7 +9,7 @@ const ProjectPage = () => {
   return (
     <div className="container__projects">
       <div className="project">
-        <ImgMediaCard  image ={covid} site ="https://covid19trackerme.netlify.app" title='COVID-19' description="This application is used for tracking  corona virus cases along the globe and also country wise"/>
+        <ImgMediaCard  image ={covid} site ="https://covid-19-trackerme.netlify.app" title='COVID-19' description="This application is used for tracking  corona virus cases along the globe and also country wise"/>
         <ImgMediaCard image = {foodorder}title='Food Order App' description="You can order food online while you are sitting in home "/>
       </div>
       <div className="project">
