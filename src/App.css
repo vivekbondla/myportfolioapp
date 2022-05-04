@@ -7,7 +7,7 @@
 
 .routes {
   display: flex;
-  /* height: 100%; */
+  
   margin-top: 10px;
   justify-content: center;
   flex-basis: 100%;
@@ -76,12 +76,6 @@
   margin-bottom: 2px;
 }
 
-/* .routes p{
-  display: flex;
-  justify-content: center;
- 
-  flex-basis: 100%;
-} */
 
 #technologies{
   font-size: large;
